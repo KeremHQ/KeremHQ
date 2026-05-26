@@ -1,51 +1,51 @@
 # 🌐 WELCOME TO KEREM'S HQ
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_The_Future-blueviolet?style=for-the-badge&logo=opsgenie" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-AI_&_Cyber_Security-black?style=for-the-badge&logo=linux" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Software_&_Innovation-black?style=for-the-badge&logo=codefactor" alt="Focus">
 </p>
 
 ---
 
 ### 🗂️ System Overview
-Welcome to the central command and repository hub of **KeremHQ**. This is the digital space where ideas are synthesized into code, automation meets intelligence, and secure systems are crafted.
+Welcome to the central command and repository hub of **KeremHQ**. This is an independent digital space where ideas are transformed into code, systems are explored, and future technologies are built.
 
-- 🚀 **Core Activities:** Exploring Software Entrepreneurship & Advanced System Architectures.
-- 🐍 **Current Stack:** Building next-generation automation tools and modular AI assistants using Python.
-- 🛡️ **Environment:** Managing, configuring, and optimizing workflows primarily inside Unix/Linux terminals.
+- 🚀 **Core Activities:** Exploring tech entrepreneurship, software architectures, and digital creation.
+- 💻 **Development:** Building scalable logic, clean code structures, and multi-language projects.
+- 🧠 **Vision:** Shifting between frameworks and tools to design modern solutions from scratch.
 
 ---
 
-### 🛠️ Tech Stack & Control Panel
+### 🛠️ Core Capabilities & Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br /><b>Python</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br /><b>Kali / Linux</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="macOS" />
-      <br /><b>macOS Terminal</b>
+      <img src="https://skillicons.dev/icons?i=code" width="45" height="45" alt="Software" />
+      <br /><b>Software Logic</b>
     </td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br /><b>Git Control</b>
+      <br /><b>Version Control</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Systems" />
+      <br /><b>System Design</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Automation" />
+      <br /><b>Automation</b>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Core Technologies
+### 🚀 Exploration & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,apple,git,bash&theme=dark" alt="Kerem's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,bash,regex&theme=dark" alt="Kerem's Tech Stack" />
 </p>
 
 ---
 <p align="center">
-  <i>"The best way to predict the future is to code it."</i>
+  <i>"Independent thinking. Relentless building. Creating the future, one project at a time."</i>
 </p>

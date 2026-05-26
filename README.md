@@ -32,7 +32,7 @@ Welcome to the central command and repository hub of **KeremHQ**. This is an ind
       <br /><b>System Design</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=workflow" width="45" height="45" alt="Automation" />
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Automation" />
       <br /><b>Automation</b>
     </td>
   </tr>
@@ -42,7 +42,7 @@ Welcome to the central command and repository hub of **KeremHQ**. This is an ind
 
 ### 🚀 Exploration & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,powershell,regex&theme=dark" alt="Kerem's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,bash,regex&theme=dark" alt="Kerem's Tech Stack" />
 </p>
 
 ---

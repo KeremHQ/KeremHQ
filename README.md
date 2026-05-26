@@ -1,27 +1,21 @@
 # 🌐 KeremHQ
 
-Welcome to my digital headquarters. This space serves as the central command and evolution log for my journey into technology, software development, and system exploration.
+Welcome to my digital headquarters. This is a centralized space for tech exploration, creative engineering, and building the foundations of future ideas.
 
 ---
 
-### 🚀 Current Focus
-- 🐍 **Python Exploration:** Refining logic, scripting automation, and exploring modular structures.
-- 🛡️ **System & Terminal:** Navigating Unix/Linux environments, configuring workflows, and optimization.
-- 💼 **Future Horizons:** Building the technical foundations for next-generation software ideas.
+### ⚡ Operational Focus
+- 🚀 **Exploration:** Researching systems, frameworks, and next-generation technologies.
+- 🛠️ **Development:** Crafting scalable software logic and digital solutions from scratch.
+- 💼 **Visions:** Designing concepts for independent future projects and tech entrepreneurship.
 
 ---
 
-### 🛠️ The Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
+### 🛠️ Core Capabilities & Tools
+`Software Architecture` • `System Logic` • `Git Control` • `Automation` • `Problem Solving`
 
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication. Building the future, one commit at a time."</i>
-</p>s
+  <i>"Independent thinking. Relentless building. Welcome to the core."</i>
+</p>

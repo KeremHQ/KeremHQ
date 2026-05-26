@@ -40,12 +40,12 @@ Welcome to the central command and repository hub of **KeremHQ**. This is the di
 
 ---
 
-### 📊 HQ Terminal Activity
+### 🚀 Core Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeremHQ&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="KeremHQ Stats" />
+  <img src="https://skillicons.dev/icons?i=py,linux,apple,git,bash&theme=dark" alt="Kerem's Tech Stack" />
 </p>
 
 ---
 <p align="center">
   <i>"The best way to predict the future is to code it."</i>
-</p>s
+</p>
